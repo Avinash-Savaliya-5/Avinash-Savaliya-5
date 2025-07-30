@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avinash Savaliya</h1>
-<h3 align="center">A web developer</h3>
+<h3 align="center">Web developer</h3>
 
 
 - 🌱 I’m currently learning **.Net**
