@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning **Mobile application development using Flutter**
-- - 🌱 I’m currently learning **Machine learning & Deep learning**
+- 🌱 I’m currently learning **Machine learning & Deep learning**
 
 - 📫 How to reach me **absavaliya2005@gmail.com**
 
