@@ -2,7 +2,8 @@
 <h3 align="center">Web developer</h3>
 
 
-- 🌱 I’m currently learning **.Net**
+- 🌱 I’m currently learning **Mobile application development using Flutter**
+- - 🌱 I’m currently learning **Machine learning & Deep learning**
 
 - 📫 How to reach me **absavaliya2005@gmail.com**
 
